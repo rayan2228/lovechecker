@@ -23,8 +23,6 @@ function calculate(e) {
         calculatorValueElm.style.top = "10px"
         calculatorValueElm.style.left = "-1px"
         calculatorValueElm.style.fontSize = "41px"
-        person1Elm.value = ""
-        person2Elm.value = ""
     }
 
 }
