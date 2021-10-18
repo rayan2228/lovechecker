@@ -1,14 +1,23 @@
-@media (min-width:320px) and (max-width:575px){
-    .main{
+@media (min-width:320px) and (max-width:575px) {
+    .main {
         height: auto;
     }
+
     .main form input {
         margin: 16px 12px;
     }
+
     .main .heart {
         margin: 64px auto;
     }
+
     .main h1 {
         font-size: 27px;
+    }
+
+    .main form {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
     }
 }
