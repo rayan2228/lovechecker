@@ -32,4 +32,6 @@ resetElm.addEventListener("click", () => {
     calculatorValueElm.style.top = "25px"
     calculatorValueElm.style.left = "0px"
     calculatorValueElm.style.fontSize = "20px"
+    person1Elm.value= ""
+    person2Elm.value= ""
 })
